@@ -545,11 +545,11 @@ position:relative;
 
 
 
-.networker .bg{background: url(../images/logo.svg),url(../images/svg/networker.svg),linear-gradient(to top, #6881ff, #d4cffd);background-repeat:no-repeat;background-size:50px,cover,cover;background-position: 90% 91%,left,right;}
+.networker {background: url(../images/logo.svg),url(../images/svg/networker.svg),linear-gradient(to top, #090e1a, #090e1a);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
 
-.founder .bg{background: url(../images/logo.svg),url(../images/svg/founders.svg),linear-gradient(to top, #000a1a, #000a1a);background-repeat:no-repeat;background-size:50px,contain,cover;background-position: 90% 91%,left,right;background-blend-mode:overlay,normal,normal}
+.founder {background: url(../images/logo.svg),url(../images/svg/founders.svg),linear-gradient(to top, #000a1a, #000a1a);background-repeat:no-repeat;background-size:150px,contain,contain;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
 
-.explorer .bg{background: url(../images/logo.svg),url(../images/svg/explorer.svg),linear-gradient(to top, #000a1a, #000a1a);background-repeat:no-repeat;background-size:50px,cover,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
+.explorer {background: url(../images/logo.svg),url(../images/svg/explorer.svg),linear-gradient(to top, #eb5921, #eb5921);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
 
 
-.creator .bg{background: url(../images/logo.svg),url(../images/svg/creator.svg),linear-gradient(to top, #000a1a, #000a1a);background-repeat:no-repeat;background-size:50px,cover,cover;background-position: 50% 90%,center,right;background-blend-mode:overlay,normal,normal}
+.creator {background: url(../images/logo.svg),url(../images/svg/creator.svg),linear-gradient(to top, #231f20, #231f20);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
