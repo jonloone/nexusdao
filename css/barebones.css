@@ -545,11 +545,12 @@ position:relative;
 
 
 
-.networker {background: url(../images/logo.svg),url(../images/svg/networker.svg),linear-gradient(to top, #090e1a, #090e1a);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
+.networker {background: url(../images/logo.svg),url(../images/networker.svg),linear-gradient(to top, #090e1a, #090e1a);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal;
+background-attachment:fixed;}
 
-.founder {background: url(../images/logo.svg),url(../images/svg/founders.svg),linear-gradient(to top, #000a1a, #000a1a);background-repeat:no-repeat;background-size:150px,contain,contain;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
+.founder {background: url(../images/logo.svg),url(../images/founders.svg),linear-gradient(to top, #000a1a, #000a1a);background-repeat:no-repeat;background-size:150px,contain,contain;background-position: center,center,right;background-blend-mode:overlay,normal,normal;background-attachment:fixed;}
 
-.explorer {background: url(../images/logo.svg),url(../images/svg/explorer.svg),linear-gradient(to top, #eb5921, #eb5921);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
+.explorer {background: url(../images/logo.svg),url(../images/explorer.svg),linear-gradient(to top, #eb5921, #eb5921);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal;background-attachment:fixed;}
 
 
-.creator {background: url(../images/logo.svg),url(../images/svg/creator.svg),linear-gradient(to top, #231f20, #231f20);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal}
+.creator {background: url(../images/logo.svg),url(../images/creator.svg),linear-gradient(to top, #231f20, #231f20);background-repeat:no-repeat;background-size:150px,contain,cover;background-position: center,center,right;background-blend-mode:overlay,normal,normal;background-attachment:fixed;}
